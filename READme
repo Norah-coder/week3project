@@ -1,7 +1,7 @@
-Delani Studio
+##Delani Studio
 By Cyrian Norah
 
-Table of Content
+##Table of Content
 Description
 Features
 Behaviour Driven Development
@@ -11,44 +11,43 @@ Technology Used
 Licence
 Authors Info
 
-Description
+##Description
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studio
 
 
-Features
+##Features
 As a user of the application,you will be able to :
 
 See a description of what the services offered by the studio
 Can make inquiry through a form.
 
-Behaviour Driven Development|
+##Behaviour Driven Development|
 Behaviour	Input	Output
 Enter your name	Cyrian Norah	
 Enter your Email Address	Cyrian Norah , we have received your message. Thank you for reaching out to us.
 
-Requirements
+##Requirements
 Access to a computer or any other garget
-
 Access to internet
 
-Installation Process
+##Installation Process
 Clone to the repo : git clone https://github.com/Norah-coder/week3project-Delani-Studio.git
 
 Unzip the downloaded files in a folder of choice.
 
 Open the index file from the zipped file with any browser.
  
-Technology Used
+##Technology Used
 HTML - which was used to develope the structure off the pages.
 
 CSS - which was used to style the User Interface.
 
 JQUERY - which was used for DOM(Document Object Manipulation) scripts.
 
-Known Bugs
+##Known Bugs
 Mailchimp API does not function correctly as expected.
 
-Licence
+##Licence
 MIT License
 
 Copyright (c) [2020] [Cyrian Norah]
